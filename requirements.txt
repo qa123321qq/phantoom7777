@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+requests
+user-agent
+colorama
+faker
+telethon
